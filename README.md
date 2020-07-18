@@ -3,7 +3,7 @@ Ekrash is a dungeon crawling deckbuilding game.
 
 # What is a Dungeon Crawling Deckbuilding Game
 A Dungeon crawler is a game where you explore different "rooms" on a "floor" or "level" progressively upgrading yourself as you go. A Deckbuilder is a game where you start with a basic set of "cards", representing abilities you have, and during encounters you get to use those cards to assist you. As you progress, you'll have the ability to grow your deck with new cards or remove unecessary cards.
-Exploracard combines these to give the player the ability to fine tune their deck and progress ever deeper into the dungeon.
+Ekrash combines these to give the player the ability to fine tune their deck and progress ever deeper into the dungeon.
 
 # Objective
 The objective is to progress as deep as you can into the dungeon to find various loot in the form of cards, artifacts, gold, and other... encounters.
